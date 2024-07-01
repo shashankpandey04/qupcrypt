@@ -1,5 +1,6 @@
 pyproject.toml
 setup.py
+qupcrypt/WebCrypt.py
 qupcrypt/__init__.py
 qupcrypt/encryption.py
 qupcrypt/ext.py
@@ -11,3 +12,4 @@ qupcrypt.egg-info/top_level.txt
 tests/__init__.py
 tests/test_custom_aes.py
 tests/test_encryption.py
+tests/test_webcrypt.py

@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: qupcrypt
-Version: 0.1.5
+Version: 0.1.6
 Summary: A custom encryption library using AES
 Home-page: https://github.com/shashankpandey04/qupcrypt
 Author: Shashank Pandey
@@ -12,4 +12,4 @@ Requires-Python: >=3.6
 Description-Content-Type: text/markdown
 Requires-Dist: pycryptodome
 
-A custom encryption library using AES and base64 encoding with Custom Algorithm for encryption and decryption. It is a simple and easy to use library for encryption and decryption of data.
+A custom encryption library using AES and base64 encoding with Custom Algorithm for encryption and decryption. It is a simple and easy to use library for encryption and decryption of data. More Info: https://github.com/shashankpandey04/qupcrypt & https://sites.google.com/view/qupcrypt
