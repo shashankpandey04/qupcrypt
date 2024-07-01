@@ -1,5 +1,5 @@
 import unittest
-from qupcrypt.custom_aes import CustomAES
+from qupcrypt.ext import CustomAES
 
 class TestCustomAES(unittest.TestCase):
     def test_encryption_decryption(self):

@@ -20,6 +20,24 @@ pip install qupcrypt
 ## Usage
 - Here is a quick example of how to use Qupcrypt to encrypt and decrypt data:
 
+- CustomAES
+``` python
+from qupcrypt.ext import CustomAES
+
+key = b'shashankpandey04'
+custom_aes = CustomAES(key)
+
+# Encrypt data
+encrypted_data = custom_aes.encrypt("Hello, World!")
+print("Encrypted",encrypted_data)
+
+# Decrypt data
+decrypted_data = custom_aes.decrypt(encrypted_data)
+print("Decrypted:", decrypted_data)
+
+```
+
+- SimpleEncryptor
 ``` python
 
 from qupcrypt import SimpleEncryptor
