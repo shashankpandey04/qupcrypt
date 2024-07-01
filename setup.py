@@ -8,7 +8,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="qupcrypt",
-    version="0.1.1",
+    version="0.1.5",
     author="Shashank Pandey",
     author_email="jpshashank200@gmail.com",
     description="A custom encryption library using AES",

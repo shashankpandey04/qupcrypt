@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: qupcrypt
-Version: 0.1.1
+Version: 0.1.5
 Summary: A custom encryption library using AES
 Home-page: https://github.com/shashankpandey04/qupcrypt
 Author: Shashank Pandey
