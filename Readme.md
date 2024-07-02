@@ -22,7 +22,7 @@ pip install qupcrypt
 
 - WebCryption
 ``` python
-from qupcrypt.WebCrypt import WebCryption  # Assuming WebCrypt.py contains your WebCryption class implementation
+from qupcrypt.WebCrypt import WebCryption
 
 def test_web_cryption():
     # Initialize WebCryption with a key
